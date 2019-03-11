@@ -12,16 +12,16 @@ with open("with.py", "r") as fr:
 
 print( '#### class sample' )
 class MySampleClass:
- 
+
   def __enter__(self):
       print('START')
       return self
-  
+
   def myfunc(self):
       print('Do something...')
-  
+
   def __exit__(self, exception_type, exception_value, traceback):
     print('END')
- 
+
 with MySampleClass() as c:
   c.myfunc()
