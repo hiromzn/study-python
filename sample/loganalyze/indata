@@ -1,0 +1,9 @@
+2022/12/05 10:55:18.430  at line 0. of (sa00-mm-ap007s_clc_web20027)
+%CLC-I-DISCONNECT, Node [localhost] : Service [dbpms_57000] : Channel [11]
+
+2022/12/05 10:56:10.548 /home/moin/build_work/dlj/main/src/clc_web_init.c at line 752. of (sa00-mm-ap007s_clc_web20027)
+%CLC-I-RECEIVE, Node [localhost] : Service [trc60001] : Func [17511]
+
+2022/12/05 10:56:10.549  at line 0. of (sa00-mm-ap007s_clc_web20027)
+%CLC-I-CHANGE_USER, Login-ID[SL886316] Func [17511]
+
